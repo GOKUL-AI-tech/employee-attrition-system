@@ -2,6 +2,20 @@
 
 Full-stack app: **React** (Vite + Recharts) · **Flask** · **scikit-learn** (Random Forest) · **SQLite** (built in – no external DB).
 
+## Screenshots
+
+Captured from the running app with its built-in sample data (600 synthetic employees).
+
+![Dashboard](docs/screenshots/dashboard.png)
+
+| Attrition prediction | Risk analysis (click a row for drivers) |
+|---|---|
+| ![Predict](docs/screenshots/predict.png) | ![Risk analysis](docs/screenshots/risk-analysis.png) |
+
+| HR analytics | Employee directory |
+|---|---|
+| ![Analytics](docs/screenshots/analytics.png) | ![Employees](docs/screenshots/employees.png) |
+
 ## Quick start
 
 Requires Python 3.9+ and Node.js 18+.
